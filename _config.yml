@@ -69,7 +69,6 @@ content:
          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Ive started uploading finished projects over my years in school to my github. If you have questions about any of them feel free to ask. 
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -85,12 +84,12 @@ content:
           Worked with Whitedog ownership to produce and provide product for Whitedog Boise which lead to the expansion to Whitedog Caldwell. I currently brew for both locations. 
       - layout: left
         title: Learning Assistant
-        link: [Boise State LA Program](https://www.boisestate.edu/aasc/academicsupportservices/boise-state-learning-assistant-program/)
+        link: https://www.boisestate.edu/aasc/academicsupportservices/boise-state-learning-assistant-program
         sub_title: Learning Assistant Calc I / Calc III
         caption: 2019 - 2020
         description: |
-        Worked with hand with teachers and LA coordinaters, sat through classes and hosted tutoring sessions to help students study and learn.
-             description: | # this will include new lines to allow paragraphs
+          Worked with hand with teachers and LA coordinaters, sat through classes and hosted tutoring sessions to help students study and learn.
+          description: | # this will include new lines to allow paragraphs
           Worked with Whitedog ownership to produce and provide product for Whitedog Boise which lead to the expansion to Whitedog Caldwell. I currently brew for both locations. 
       - layout: left
         title: Satellite Communications Technician 
@@ -106,7 +105,6 @@ content:
         caption: 2013 - 2016
         description: |
           Trained and supervised airmen on how to set up antennas to connect to satellites. 
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,8 +134,8 @@ content:
       = Dog Dad
       
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    #Look at this cool image  
+    #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
